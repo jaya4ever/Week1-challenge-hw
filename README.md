@@ -1,5 +1,12 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+# Work I did in my 1st week challenge
+1- Used Semantic HTML Elements by using Header and Footer and removed the class as well in css for header and footer
+2- Orgazined multiple CSS styling in same parantheses which had the same style so the code can be convenient to read
+3- Used the alt attributes to Image elements
+4- Checked heading attributes to make sure they are in sequential order
+5- cHanged the website title element to Horiseon.
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
